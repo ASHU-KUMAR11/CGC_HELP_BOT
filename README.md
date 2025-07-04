@@ -6,7 +6,8 @@ The project include Botpress Webchat integration script and html , css and js fi
 
 
 Click Here to Try:
-👉
+
+👉https://ashu-kumar11.github.io/CGC_HELP_BOT/
 
 🚀 Features:
 
@@ -20,7 +21,8 @@ Click Here to Try:
 ⚙️ How to Use
 
 1. **Just click the link below to start chatting with the bot:
-   👉
+
+   👉https://ashu-kumar11.github.io/CGC_HELP_BOT/
    
 3. No installation or setup needed – it runs directly in your browser.
    
